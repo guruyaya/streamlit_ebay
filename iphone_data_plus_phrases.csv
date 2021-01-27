@@ -1,0 +1,30 @@
+Release date,Model,Price at launce,Model with OS,discontinued,support ended,final OS,lifespan max,lifespan min,phrase
+29-Jun-07,iPhone,$499,iPhone OS 1.0,"June 9, 2008","June 20, 2010",iPhone OS 3.1.3,"2 years, 11 months",2 years,Iphone 1
+11-Jul-08,iPhone 3G,$599,iPhone OS 2.0,"August 9, 2010","March 3, 2011",iOS 4.2.1,"2 years, 7 months",6 months,iphone 3G
+19-Jun-09,iPhone 3GS,$599,iPhone OS 3.0,"September 12, 2012","September 18, 2013",iOS 6.1.6,"4 years, 2 months",1 year,iphone 3G -3Gs
+24-Jun-10,iPhone 4,$599,iOS 4.0,"September 10, 2013","September 17, 2014",iOS 7.1.2,"4 years, 2 months",1 year,Iphone 4 -4s
+14-Oct-11,iPhone 4S,$649,iOS 5.0,"September 9, 2014","(late, single update: July 22, 2019)",(9.3.6),"4 years, 10 months",2 years,Iphone 4s
+21-Sep-12,iPhone 5,$649,iOS 6.0,"September 10, 2013","(late, single update: July 22, 2019)",(10.3.4),"4 years, 11 months",4 years,Iphone 5 -5c -5s
+20-Sep-13,iPhone 5C,$549,iOS 7.0,"September 9, 2015","September 18, 2017",iOS 10.3.3,"3 years, 11 months",2 years,iphone 5c
+20-Sep-13,iPhone 5S,$649,iOS 7.0,"March 21, 2016","(latest, exclusive update: January 11, 2021)",(12.5.1),"5 years, 11 months","3 years, 5 months",Iphone 5s
+19-Sep-14,iPhone 6,$649,iOS 8.0,"September 7, 2016","(latest, exclusive update: January 11, 2021)",(12.5.1),"4 years, 11 months",3 years,Iphone 6 -plus -6s
+19-Sep-14,iPhone 6 Plus,$749,iOS 8.0,"September 7, 2016","(latest, exclusive update: January 11, 2021)",(12.5.1),"4 years, 11 months",3 years,Iphone 6 plus -6s
+25-Sep-15,iPhone 6S,$649,iOS 9.0.1,"September 12, 2018",current,latest iOS,"> 5 years, 3 months","> 2 years, 4 months",iphone 6s -plus
+25-Sep-15,iPhone 6S Plus,$749,iOS 9.0.1,"September 12, 2018",current,latest iOS,"> 5 years, 3 months","> 2 years, 4 months",iphone 6s plus
+31-Mar-16,iPhone SE,$399,iOS 9.3,"September 12, 2018",current,latest iOS,"> 4 years, 9 months","> 2 years, 4 months",Iphone se
+16-Sep-16,iPhone 7,$649,iOS 10.0.1,"September 10, 2019",current,latest iOS,"> 4 years, 4 months","> 1 year, 4 months",Iphone 7 -plus
+16-Sep-16,iPhone 7 Plus,$769,iOS 10.0.1,"September 10, 2019",current,latest iOS,"> 4 years, 4 months","> 1 year, 4 months",Iphone 7 plus
+22-Sep-17,iPhone 8,$699,iOS 11.0,"April 15, 2020",current,latest iOS,"> 3 years, 3 months",> 9 months,Iphone 8 -plus
+22-Sep-17,iPhone 8 Plus,$799,iOS 11.0,"April 15, 2020",current,latest iOS,"> 3 years, 3 months",> 9 months,Iphone 8 plus
+3-Nov-17,iPhone X,$999,iOS 11.0.1,"September 12, 2018",current,latest iOS,"> 3 years, 2 months","> 2 years, 4 months",iphone x -xs -max -xr
+21-Sep-18,iPhone XS,$999,iOS 12.0,"September 10, 2019",current,latest iOS,"> 2 years, 4 months","> 1 year, 4 months",Iphone xs -max
+21-Sep-18,iPhone XS Max,"$1,249",iOS 12.0,"September 10, 2019",current,latest iOS,"> 2 years, 4 months","> 1 year, 4 months",Iphone xs max
+26-Oct-18,iPhone XR,$749,iOS 12.0,,current,latest iOS,"> 2 years, 2 months",,Iphone xr
+20-Sep-19,iPhone 11,$699,iOS 13.0,,current,latest iOS,"> 1 year, 3 months",,Iphone 11 –pro -max
+20-Sep-19,iPhone 11 Pro,$999,iOS 13.0,"October 13, 2020",current,latest iOS,"> 1 year, 3 months",,Iphone 11 pro -max
+20-Sep-19,iPhone 11 Pro Max,"$1,099",iOS 13.0,"October 13, 2020",current,latest iOS,"> 1 year, 3 months",,Iphone 11 pro max
+24-Apr-20,iPhone SE (2nd),$399,iOS 13.4,,current,latest iOS,> 8 months,,Iphone se
+23-Oct-20,iPhone 12,$829,iOS 14.1,,current,latest iOS,>0 months,,Iphone 12 -pro -mini
+23-Oct-20,iPhone 12 Pro,$999,iOS 14.1,,current,latest iOS,>0 months,,Iphone 12 pro -mini 
+13-Nov-20,iPhone 12 Pro Max,"$1,099",iOS 14.2,,current,latest iOS,>0 months,,Iphone 12 pro mini 
+13-Nov-20,iPhone 12 Mini,$729,iOS 14.2,,current,latest iOS,>0 months,,Iphone 12 mini -pro
